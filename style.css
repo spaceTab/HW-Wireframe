@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background: grey;
+    margin: 10px;
+    padding: 10px;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+    background:#eee;
+}
+
+nav {
+    padding: 20px;
+    margin-bottom: 20px;
+}
