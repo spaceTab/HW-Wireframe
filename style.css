@@ -20,8 +20,17 @@ header {
     background:#ebebeb;
 }
 
-nav {
+#nav {
     padding: 20px;
     margin-bottom: 20px;
+    background: #ebebeb;
+}
+
+section {
+    float: left;
+    width: 495px;
+    height: 300px;
+    padding: 20px;
+    float: left;
     background: #ebebeb;
 }
