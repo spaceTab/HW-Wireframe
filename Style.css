@@ -15,8 +15,11 @@ body {
     background:#777;
 }
 
-#header {
+header {
     background: #ebebeb;
+
+    padding: 0px;
+    margin:  0px;
 }
 
 nav {
@@ -26,6 +29,9 @@ nav {
 section {
     background: #ebebeb;
     width:      495px;
+    
+
+    
 }
 
 aside {
@@ -43,6 +49,11 @@ h1 {
 }
 
 p {
+    color:      #777;
+    background: #ebebeb;
+}
+
+footer {
     color:      #777;
     background: #ebebeb;
 }
